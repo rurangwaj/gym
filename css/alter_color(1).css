@@ -1,0 +1,19 @@
+ #tr:hover
+{
+background-color:#0ba3c9;
+color:#000;
+}
+ #tr:nth-child(even)
+{
+    background-color:#8d9698;
+}
+ #tr:nth-child(odd)
+{
+    background-color:#a3a7a8;
+}
+.tr_head{
+  color: #000;
+   text-align: left;
+   background-color:#3da837;  
+   }
+
